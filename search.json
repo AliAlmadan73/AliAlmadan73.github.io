@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "AI_USAGE_LOG.html",
+    "href": "AI_USAGE_LOG.html",
+    "title": "AI assistance log — PQHS 431 Lab 5",
+    "section": "",
+    "text": "AI assistance log — PQHS 431 Lab 5\nTool: ChatGPT (OpenAI)\nRelevant user prompts from this work session (verbatim): - “Can I use the template of previous labs?” - “update my CV first” - “December 2023” - “ok update the cv” - “ok go a head”\nAdditional context: The user supplied screenshots of Emma Chio’s website as a visual reference and an existing CV. ChatGPT drafted Quarto website files (_quarto.yml, .qmd pages, CSS, SVG illustration), included the updated public CV PDF, and provided setup/publishing guidance. The website layout is inspired by the screenshots but the text and code were drafted anew. This log should be supplemented with the complete exact prompts used in future AI-assisted edits. For a fully precise disclosure, also include any earlier relevant prompts and the CV-editing prompts from the conversation history.\n\n“Use my nursing honor society photo as the homepage profile picture.” — ChatGPT replaced the homepage illustration with the user-supplied nursing honor society photo and adjusted CSS for circular cropping."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "Master of Science in Biomedical & Health Informatics\nCleveland, Ohio · Current graduate student\nFocus areas include healthcare data, statistics, epidemiology, and the use of computational tools in medicine.\n\n\n\nBachelor of Science in Nursing (BSN)\nNorth Canton, Ohio · Graduated December 2023"
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "Master of Science in Biomedical & Health Informatics\nCleveland, Ohio · Current graduate student\nFocus areas include healthcare data, statistics, epidemiology, and the use of computational tools in medicine.\n\n\n\nBachelor of Science in Nursing (BSN)\nNorth Canton, Ohio · Graduated December 2023"
+  },
+  {
+    "objectID": "experience.html#clinical-training",
+    "href": "experience.html#clinical-training",
+    "title": "Education & Experience",
+    "section": "Clinical Training",
+    "text": "Clinical Training\nMy nursing education included supervised clinical rotations across multiple healthcare settings:\n\nMedical-surgical nursing — Summa Barberton Hospital\nInfusion center — Summa Barberton Hospital\nFamily and newborn care — Akron General Hospital\nMental health — Summa St. Thomas Campus\nFoundations of nursing — University Hospitals and Summa Barberton\nPediatric and adolescent care — Akron Children’s Hospital"
+  },
+  {
+    "objectID": "experience.html#skills-interests",
+    "href": "experience.html#skills-interests",
+    "title": "Education & Experience",
+    "section": "Skills & Interests",
+    "text": "Skills & Interests\nHealthcare: Nursing, patient-centered care, clinical communication, interdisciplinary teamwork\nData and research: R, introductory Python, statistical analysis, epidemiology, data visualization, GIS\nProfessional: Problem-solving, time management, written communication, presentations\nFor a fuller overview, visit the CV page."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Selected Projects",
+    "section": "",
+    "text": "These academic projects reflect my interests in healthcare data, statistical analysis, and public health."
+  },
+  {
+    "objectID": "projects.html#county-level-health-patterns-across-six-u.s.-states",
+    "href": "projects.html#county-level-health-patterns-across-six-u.s.-states",
+    "title": "Selected Projects",
+    "section": "County-Level Health Patterns Across Six U.S. States",
+    "text": "County-Level Health Patterns Across Six U.S. States\nPQHS 431 · Statistical Methods I\nAnalyzed county-level health measures using R and Quarto. Explored differences in life expectancy across states and changes in low birth weight rates, using visualizations and confidence intervals to communicate results."
+  },
+  {
+    "objectID": "projects.html#ai-in-medicine-text-classification",
+    "href": "projects.html#ai-in-medicine-text-classification",
+    "title": "Selected Projects",
+    "section": "AI in Medicine — Text Classification",
+    "text": "AI in Medicine — Text Classification\nPQHS 416 · AI in Medicine\nWorked on a text classification project using the Reuters dataset, evaluating model performance and exploring the effects of different dropout settings."
+  },
+  {
+    "objectID": "projects.html#geographic-information-systems-for-public-health",
+    "href": "projects.html#geographic-information-systems-for-public-health",
+    "title": "Selected Projects",
+    "section": "Geographic Information Systems for Public Health",
+    "text": "Geographic Information Systems for Public Health\nPQHS 426 · GIS\nCreated maps and spatial analyses related to public health and neighborhood-level patterns, using geographic data to communicate complex relationships."
+  },
+  {
+    "objectID": "projects.html#evidence-based-nursing-practice",
+    "href": "projects.html#evidence-based-nursing-practice",
+    "title": "Selected Projects",
+    "section": "Evidence-Based Nursing Practice",
+    "text": "Evidence-Based Nursing Practice\nExplored research evidence on chlorhexidine-impregnated dressings and central line-associated bloodstream infection prevention in adult intensive care settings.\nProject descriptions summarize coursework and do not imply publication or independent clinical implementation."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Ali Almadan\nGraduate Student in Biomedical & Health Informatics · Registered Nurse\nI am a graduate student in Biomedical and Health Informatics at Case Western Reserve University. My background in nursing has shaped my interest in how data, technology, and research can help improve patient care and public health.\nMy academic interests include health data analysis, epidemiology, artificial intelligence in medicine, and geographic information systems. I enjoy learning how to turn complex health information into meaningful insights.\nLearn about my experience Explore my projects"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Welcome",
+    "section": "Get in touch",
+    "text": "Get in touch\nI welcome opportunities to connect about healthcare, informatics, research, and professional collaboration. Email me at aia73@case.edu."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view or download my current public CV below.\nDownload my CV (PDF)\n\n\nIf the preview does not appear in your browser, use the download link above."
+  }
+]
